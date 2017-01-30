@@ -17,6 +17,7 @@ Add the following to your .emacs file:
 
 * License
 
+#+BEGIN_EXAMPLE
 Copyright (C) 1991-1997 Matthew R. Wette
 Copyright (C) 1997-2004 Eric M. Ludlam: The MathWorks, Inc
 Copyright (C) 2004-2010, 2014 The Mathworks, Inc
@@ -36,3 +37,4 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#+END_EXAMPLE
